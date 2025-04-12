@@ -31,5 +31,5 @@ Here’s how to run it locally:
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/k-weatherApp.git
+git clone https://github.com/yusufniazi/K-react-weatherApp.git
 cd k-weatherApp
